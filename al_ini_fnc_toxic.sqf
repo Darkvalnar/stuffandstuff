@@ -186,7 +186,7 @@ waitUntil {!isNil "obj_prot_toxic"};
 			(goggles player=="CAU_G_CBRN_m04_dpm_hood_Broken")or
 			(goggles player=="CAU_G_CBRN_m04_fleck_hood_Broken")or
 			(goggles player=="CAU_G_CBRN_m04_flora_hood_Broken")or
-			(goggles player=="CAU_G_CBRN_m04_gray_hood_Broken_Broken")or
+			(goggles player=="CAU_G_CBRN_m04_gray_hood_Broken")or
 			(goggles player=="CAU_G_CBRN_m04_green_hood_Broken")or
 			(goggles player=="CAU_G_CBRN_m04_hoodless_Broken")or
 			(goggles player=="CAU_G_CBRN_m04_jeitai_hood_Broken")or
